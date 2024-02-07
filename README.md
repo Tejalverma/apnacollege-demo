@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git Repository.
 <br>
-Author-Tejal verma
+Author-Tejal (best)
